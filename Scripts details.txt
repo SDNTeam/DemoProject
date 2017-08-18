@@ -1,0 +1,14 @@
+History of scripts running
+------------------------------
+#TC10467-> Scenario - Verify user is able to create Trading Partner group with the combination of tag,status and Type
+17-08-17-working
+............................. 
+
+#TC9648-> Scenario: Verify Trading partner search by using Trading partner Company Name
+ 10/08/17-Working
+...................................... 
+
+#10781-> Create Product Without Universal Id
+17-08-17 - In progress
+
+..........................................

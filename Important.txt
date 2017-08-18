@@ -1,0 +1,19 @@
+
+ALWAY USE "ICIX Test" AS PREFIX  in test name. INSIDE TESTNG.XML FILE
+
+EXAMPLE:
+<test name="ICIX Test you test name">
+
+
+Extent Report Util usage
+To produce Logs for Html Report Use following code in the @Test method
+
+@Test
+    public void parallelClass2TestResultMustEqualFail() throws Exception {
+        ReportUtil.getTest().log(LogStatus.FAIL, "Log from threadId: " + Thread.currentThread().getId());
+        ReportUtil.getTest().log(LogStatus.INFO, "Log from threadId: " + Thread.currentThread().getId());
+        
+        throw new Exception("intentional failure");
+    }
+ 
+

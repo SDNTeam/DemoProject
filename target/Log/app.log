@@ -1,0 +1,90 @@
+2017-08-17 12:11:44,506 INFO  [main] ? - Default User info initialized
+2017-08-17 12:12:03,230 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 12:12:03,230 INFO  [main] ? - Log in to application
+2017-08-17 12:12:03,234 INFO  [main] ? - Start Log in to application
+2017-08-17 12:12:03,236 WARN  [main] ? - element is not present and displayed
+2017-08-17 12:12:03,693 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 12:12:03,717 WARN  [main] ? - element is not present and displayed
+2017-08-17 12:12:04,072 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 12:12:04,096 WARN  [main] ? - There is exception: java.lang.Exception: By.id: Loginelement is not present and displayed
+2017-08-17 12:12:05,712 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')]element is not present and displayed
+2017-08-17 12:12:05,723 WARN  [main] ? - There is exception: java.lang.Exception: By.linkText: Log Outelement is not present and displayed
+2017-08-17 12:16:14,141 INFO  [main] ? - Default User info initialized
+2017-08-17 12:16:38,556 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 12:16:38,556 INFO  [main] ? - Log in to application
+2017-08-17 12:16:38,557 INFO  [main] ? - Start Log in to application
+2017-08-17 12:16:38,564 WARN  [main] ? - element is not present and displayed
+2017-08-17 12:16:38,954 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 12:16:38,979 WARN  [main] ? - element is not present and displayed
+2017-08-17 12:16:39,337 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 12:16:39,360 WARN  [main] ? - There is exception: java.lang.Exception: By.id: Loginelement is not present and displayed
+2017-08-17 12:16:39,360 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 12:16:40,958 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')]element is not present and displayed
+2017-08-17 12:16:40,968 WARN  [main] ? - There is exception: java.lang.Exception: By.linkText: Log Outelement is not present and displayed
+2017-08-17 12:18:11,477 INFO  [main] ? - Default User info initialized
+2017-08-17 12:18:29,232 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 12:18:29,232 INFO  [main] ? - Log in to application
+2017-08-17 12:18:29,240 INFO  [main] ? - Start Log in to application
+2017-08-17 12:18:29,242 WARN  [main] ? - element is not present and displayed
+2017-08-17 12:18:29,615 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 12:18:29,640 WARN  [main] ? - element is not present and displayed
+2017-08-17 12:18:30,017 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 12:18:30,040 WARN  [main] ? - There is exception: java.lang.Exception: By.id: Loginelement is not present and displayed
+2017-08-17 12:18:30,066 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 12:18:30,066 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 12:18:30,079 INFO  [main] ? - App Launcher icon is not visible, seems like page is not on Lightning view
+2017-08-17 12:18:30,093 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //span[@class='label slds-truncate slds-text-link'][contains(.,'Accounts')]element is not present and displayed
+2017-08-17 12:18:30,096 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //div[contains(@title,'New')]element is not present and displayed
+2017-08-17 12:18:31,707 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')]element is not present and displayed
+2017-08-17 12:18:31,714 WARN  [main] ? - There is exception: java.lang.Exception: By.linkText: Log Outelement is not present and displayed
+2017-08-17 12:21:56,845 INFO  [main] ? - Default User info initialized
+2017-08-17 12:22:12,838 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 12:22:12,845 INFO  [main] ? - Log in to application
+2017-08-17 12:22:12,846 INFO  [main] ? - Start Log in to application
+2017-08-17 12:22:12,854 WARN  [main] ? - element is not present and displayed
+2017-08-17 12:22:13,208 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 12:22:13,231 WARN  [main] ? - element is not present and displayed
+2017-08-17 12:22:13,586 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 12:22:13,610 WARN  [main] ? - There is exception: java.lang.Exception: By.id: Loginelement is not present and displayed
+2017-08-17 12:22:13,636 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 12:22:13,636 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 12:22:13,657 INFO  [main] ? - App Launcher icon is not visible, seems like page is not on Lightning view
+2017-08-17 12:22:13,657 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //span[@class='label slds-truncate slds-text-link'][contains(.,'Accounts')]element is not present and displayed
+2017-08-17 12:22:13,667 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //div[contains(@title,'New')]element is not present and displayed
+2017-08-17 12:22:15,270 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')]element is not present and displayed
+2017-08-17 12:22:15,282 WARN  [main] ? - There is exception: java.lang.Exception: By.linkText: Log Outelement is not present and displayed
+2017-08-17 12:27:46,745 INFO  [main] ? - Default User info initialized
+2017-08-17 12:28:02,417 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 12:28:02,417 INFO  [main] ? - Log in to application
+2017-08-17 12:28:02,417 INFO  [main] ? - Start Log in to application
+2017-08-17 12:28:02,845 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 12:28:03,214 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 12:28:15,883 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 12:28:33,458 INFO  [main] ? - Total waiting(ms) : 17575
+2017-08-17 12:28:53,959 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 12:28:53,959 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 12:28:54,003 INFO  [main] ? - Opening App Launcher
+2017-08-17 12:38:34,913 INFO  [main] ? - Default User info initialized
+2017-08-17 12:38:51,489 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 12:38:51,489 INFO  [main] ? - Log in to application
+2017-08-17 12:38:51,489 INFO  [main] ? - Start Log in to application
+2017-08-17 12:38:51,955 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 12:38:52,372 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 12:39:00,600 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 12:39:19,238 INFO  [main] ? - Total waiting(ms) : 18638
+2017-08-17 12:40:29,713 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 12:40:29,714 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 12:40:29,767 INFO  [main] ? - Opening App Launcher
+2017-08-17 12:45:55,704 INFO  [main] ? - Default User info initialized
+2017-08-17 12:46:11,901 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 12:46:11,901 INFO  [main] ? - Log in to application
+2017-08-17 12:46:11,901 INFO  [main] ? - Start Log in to application
+2017-08-17 12:46:12,344 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 12:46:12,730 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 12:46:20,843 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 12:47:55,743 INFO  [main] ? - Total waiting(ms) : 94900
+2017-08-17 12:49:06,351 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 12:49:06,352 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 12:49:06,458 INFO  [main] ? - Opening App Launcher
+2017-08-17 12:49:21,125 INFO  [main] ? - Switching to frame: 3
+2017-08-17 12:49:23,800 INFO  [main] ? - Set Text value: Rel PKG 05 into By.id: companyName

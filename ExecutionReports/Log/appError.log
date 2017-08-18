@@ -1,0 +1,37 @@
+2017-08-17 15:16:47,292 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:16:47,300 ERROR [main] ? - There is exception: java.lang.Exception: By.id: Login2222element is not present and displayed
+2017-08-17 15:19:19,498 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:19:19,502 ERROR [main] ? - There is exception: java.lang.Exception: By.id: Login2222element is not present and displayed
+2017-08-17 15:24:23,351 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:24:23,351 ERROR [main] ? - There is exception: java.lang.Exception: By.id: Login2222element is not present and displayed
+2017-08-17 15:26:52,957 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:26:52,958 ERROR [main] ? - There is exception: java.lang.Exception: By.id: Login2222element is not present and displayed
+2017-08-17 15:34:40,247 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:36:22,248 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:40:11,164 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:40:11,164 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:42:08,419 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:42:08,423 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:45:16,788 ERROR [main] ? - Error on:Login button
+2017-08-17 15:45:16,788 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:55:04,859 ERROR [main] ? - Error on:Login button
+2017-08-17 15:55:04,860 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:55:15,874 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 15:55:25,913 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 16:43:22,815 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 16:43:32,866 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 16:45:36,521 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 16:45:46,609 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 16:48:28,172 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 16:48:38,290 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 17:07:02,158 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 17:07:12,224 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 17:30:04,689 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //span[contains(.,'QATag_1')] element is not present and displayed
+2017-08-17 17:30:30,896 ERROR [main] ? - There is exception: java.lang.Exception: By.partialLinkText: VerifySendRequirement Thu Aug 17 17:29:23 IST 2017 element is not present and displayed
+2017-08-17 17:31:24,452 ERROR [main] ? - There is exception: java.lang.Exception: By.cssSelector: div.slds-x-small-buttons--horizontal > button.slds-button.slds-button--brand element is not present and displayed
+2017-08-17 17:47:40,240 ERROR [main] ? - Error on:Account Link
+2017-08-17 17:47:40,240 ERROR [main] ? - There is exception: By.xpath: //span[@class='label slds-truncate slds-text-link'][contains(.,'Accounts')] element is not present and displayed
+2017-08-17 17:47:50,483 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 17:48:00,695 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 18:19:47,794 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //button[@ng-click='vm.close()'] element is not present and displayed
+2017-08-17 18:39:40,723 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //button[@ng-click='vm.close()'] element is not present and displayed

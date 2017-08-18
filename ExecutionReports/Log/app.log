@@ -1,0 +1,427 @@
+2017-08-17 13:58:07,079 INFO  [main] ? - Default User info initialized
+2017-08-17 13:58:23,314 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 13:58:23,314 INFO  [main] ? - Log in to application
+2017-08-17 13:58:23,324 INFO  [main] ? - Start Log in to application
+2017-08-17 13:58:23,751 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 13:58:24,158 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 13:58:32,307 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 13:58:51,027 INFO  [main] ? - Total waiting(ms) : 18720
+2017-08-17 14:00:01,620 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 14:00:01,621 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 14:00:01,678 INFO  [main] ? - Opening App Launcher
+2017-08-17 14:00:25,815 INFO  [main] ? - Switching to frame: 3
+2017-08-17 14:00:28,565 INFO  [main] ? - Set Text value: Rel PKG 05 into By.id: companyName
+2017-08-17 14:01:43,279 INFO  [main] ? - Default User info initialized
+2017-08-17 14:01:59,862 INFO  [main] ? - The testcase name is: TPG_RelationshipType
+2017-08-17 14:01:59,862 INFO  [main] ? - Start Log in to application
+2017-08-17 14:02:00,266 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 14:02:00,624 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 14:02:08,578 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 14:02:24,085 INFO  [main] ? - Total waiting(ms) : 15507
+2017-08-17 14:03:34,734 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 14:03:34,807 INFO  [main] ? - Opening App Launcher
+2017-08-17 14:03:36,808 INFO  [main] ? - FormList list is clicked
+2017-08-17 14:03:53,565 INFO  [main] ? - Switching to frame: 4
+2017-08-17 14:08:20,156 INFO  [main] ? - Default User info initialized
+2017-08-17 14:08:36,309 INFO  [main] ? - The testcase name is: TPG_RelationshipType
+2017-08-17 14:08:36,309 INFO  [main] ? - Start Log in to application
+2017-08-17 14:08:36,736 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 14:08:37,104 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 14:08:45,202 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 14:13:46,274 WARN  [main] ? - TEST FAILED -TPG_RelationshipType
+2017-08-17 14:20:47,914 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')]element is not present and displayed
+2017-08-17 14:24:00,616 INFO  [main] ? - Default User info initialized
+2017-08-17 14:24:16,858 INFO  [main] ? - The testcase name is: TPG_RelationshipType
+2017-08-17 14:24:16,859 INFO  [main] ? - Start Log in to application
+2017-08-17 14:24:17,294 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 14:24:17,673 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 14:24:25,969 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 14:24:42,853 INFO  [main] ? - Total waiting(ms) : 16884
+2017-08-17 14:25:52,945 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 14:25:53,000 INFO  [main] ? - Opening App Launcher
+2017-08-17 14:25:55,744 INFO  [main] ? - FormList list is clicked
+2017-08-17 14:26:15,003 INFO  [main] ? - Switching to frame: 3
+2017-08-17 14:26:35,552 INFO  [main] ? - New form button is clicked.
+2017-08-17 14:26:36,170 INFO  [main] ? - Set Text value: [Ljava.lang.String;@1b28f282 into By.id: j_id0:form:containerBlock:containerNew:inputContainerName
+2017-08-17 14:26:36,170 INFO  [main] ? - Form name [Ljava.lang.String;@1b28f282 added.
+2017-08-17 14:26:39,261 INFO  [main] ? - Container added successfully
+2017-08-17 14:26:41,728 INFO  [main] ? - Set Text value: QA_TestlayoutThu Aug 17 14:25:55 IST 2017 into By.id: j_id0:form:layoutBlock:layoutNew:inputLayoutName
+2017-08-17 14:26:42,022 INFO  [main] ? - Layout added successfully.
+2017-08-17 14:26:46,694 INFO  [main] ? - Set Text value: QA Test Tab1 into By.id: j_id0:form:tabBlock:tabSection:tabTable:0:j_id47
+2017-08-17 14:26:48,693 INFO  [main] ? - Tab 1 added successfully.
+2017-08-17 14:26:52,813 INFO  [main] ? - Set Text value: QA Test Section1 into By.id: j_id0:form:sectionBlock:sectionSection:sectionTable:0:j_id74
+2017-08-17 14:26:55,082 INFO  [main] ? - Section 1 added successfully.
+2017-08-17 14:26:57,535 INFO  [main] ? - Set Text value: QA 1Thu Aug 17 14:25:55 IST 2017 into By.id: j_id0:form:newElementWithQuestion:newQuestionBlock:inputQuestionName
+2017-08-17 14:26:58,140 INFO  [main] ? - Set Text value: QA Test Question 1Thu Aug 17 14:25:55 IST 2017 into By.xpath: //textarea[contains(@id,'inputQuestionQuestionText')]
+2017-08-17 14:26:58,312 INFO  [main] ? - Quesion 1 added successfully.
+2017-08-17 14:27:22,601 INFO  [main] ? - Opening App Launcher
+2017-08-17 14:27:23,914 WARN  [main] ? - There is exception: org.openqa.selenium.WebDriverException: unknown error: Element <span class="label slds-truncate slds-text-link" data-aura-rendered-by="10:2998;a">...</span> is not clickable at point (759, 583). Other element would receive the click: <div class="modal-container slds-modal__container" data-aura-rendered-by="641:2864;a">...</div>
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 76 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'SUKJINDER-QC', ip: '172.24.4.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8), userDataDir=C:\Users\SUKHJI~1.SIN\AppData\Local\Temp\scoped_dir15528_20909}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 87dc73ec1e91e6342b9d60877ec6201b
+2017-08-17 14:27:33,932 WARN  [main] ? - There is exception: java.lang.Exception: By.cssSelector: div[title='New']element is not present and displayed
+2017-08-17 14:27:33,932 INFO  [main] ? - Adding new TP Group: VerifySendRequirement Thu Aug 17 14:27:22 IST 2017
+2017-08-17 14:27:44,313 INFO  [main] ? - Switching to frame: 3
+2017-08-17 14:27:56,347 WARN  [main] ? - element is not present and displayed
+2017-08-17 14:27:56,358 WARN  [main] ? - There is an exception in setting a text value: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"txtGroupName"}
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'SUKJINDER-QC', ip: '172.24.4.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8), userDataDir=C:\Users\SUKHJI~1.SIN\AppData\Local\Temp\scoped_dir15528_20909}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 87dc73ec1e91e6342b9d60877ec6201b
+*** Element info: {Using=id, value=txtGroupName}
+2017-08-17 14:28:06,441 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //span[contains(.,'QATag_1')]element is not present and displayed
+2017-08-17 14:28:06,441 INFO  [main] ? - Tag added successfully in VerifySendRequirement Thu Aug 17 14:27:22 IST 2017
+2017-08-17 14:28:16,796 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //button[contains(@text,'Save')]element is not present and displayed
+2017-08-17 14:28:16,796 INFO  [main] ? - Saving VerifySendRequirement Thu Aug 17 14:27:22 IST 2017
+2017-08-17 14:28:42,601 WARN  [main] ? - There is exception: java.lang.Exception: By.partialLinkText: VerifySendRequirement Thu Aug 17 14:27:22 IST 2017element is not present and displayed
+2017-08-17 14:28:42,602 INFO  [main] ? - The link VerifySendRequirement Thu Aug 17 14:27:22 IST 2017 is clicked.
+2017-08-17 14:28:42,602 INFO  [main] ? - Opening TP Group VerifySendRequirement Thu Aug 17 14:27:22 IST 2017
+2017-08-17 14:28:42,920 INFO  [main] ? - Opening TP Group VerifySendRequirement Thu Aug 17 14:27:22 IST 2017
+2017-08-17 14:29:03,930 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //a[@title='Set Requirements']element is not present and displayed
+2017-08-17 14:29:03,930 INFO  [main] ? - Clicking on the down arrow to click set requirement.
+2017-08-17 14:29:14,220 INFO  [main] ? - Switching to frame: 3
+2017-08-17 14:29:26,258 WARN  [main] ? - element is not present and displayed
+2017-08-17 14:29:26,275 WARN  [main] ? - There is an exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"RequestType0"}
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'SUKJINDER-QC', ip: '172.24.4.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8), userDataDir=C:\Users\SUKHJI~1.SIN\AppData\Local\Temp\scoped_dir15528_20909}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 87dc73ec1e91e6342b9d60877ec6201b
+*** Element info: {Using=id, value=RequestType0}
+2017-08-17 14:29:26,569 WARN  [main] ? - TEST FAILED -TPG_RelationshipType
+2017-08-17 14:29:28,229 WARN  [main] ? - There is exception: org.openqa.selenium.WebDriverException: unknown error: Element <img data-aura-rendered-by="169:191;a" src="https://feature04-dev-ed--c.na30.content.force.com/profilephoto/005/T/1" class="profileTrigger" alt=""> is not clickable at point (1317, 25). Other element would receive the click: <div class="panel slds-modal slds-modal--large slds-fade-in-open" aria-labelledby="title_624:2864;a" tabindex="-1" role="dialog" data-aura-rendered-by="640:2864;a" style="opacity: 1;">...</div>
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'SUKJINDER-QC', ip: '172.24.4.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8), userDataDir=C:\Users\SUKHJI~1.SIN\AppData\Local\Temp\scoped_dir15528_20909}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 87dc73ec1e91e6342b9d60877ec6201b
+2017-08-17 14:30:28,215 WARN  [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')]element is not present and displayed
+2017-08-17 14:54:28,378 INFO  [main] ? - Default User info initialized
+2017-08-17 14:55:00,821 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 14:55:00,826 INFO  [main] ? - Log in to application
+2017-08-17 14:55:00,826 INFO  [main] ? - Start Log in to application
+2017-08-17 14:55:01,541 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 14:55:01,960 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 14:58:59,016 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 14:59:05,562 INFO  [main] ? - Total waiting(ms) : 6546
+2017-08-17 15:00:16,136 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 15:00:16,136 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 15:00:16,182 INFO  [main] ? - Opening App Launcher
+2017-08-17 15:00:45,747 INFO  [main] ? - Switching to frame: 3
+2017-08-17 15:00:48,393 INFO  [main] ? - Set Text value: Rel PKG 05 into By.id: companyName
+2017-08-17 15:16:09,927 INFO  [main] ? - Default User info initialized
+2017-08-17 15:16:26,319 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 15:16:26,319 INFO  [main] ? - Log in to application
+2017-08-17 15:16:26,327 INFO  [main] ? - Start Log in to application
+2017-08-17 15:16:26,782 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:16:27,215 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:16:27,235 INFO  [main] ? - Clicking on:Click on login button
+2017-08-17 15:16:47,292 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:16:47,300 ERROR [main] ? - There is exception: java.lang.Exception: By.id: Login2222element is not present and displayed
+2017-08-17 15:16:47,302 INFO  [main] ? - Waiting for element: By.className: slds-icon-waffle
+2017-08-17 15:18:41,654 INFO  [main] ? - Default User info initialized
+2017-08-17 15:18:58,152 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 15:18:58,152 INFO  [main] ? - Log in to application
+2017-08-17 15:18:58,152 INFO  [main] ? - Start Log in to application
+2017-08-17 15:18:58,604 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:18:58,973 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:18:58,994 INFO  [main] ? - Clicking on:Click on login button
+2017-08-17 15:19:19,498 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:19:19,502 ERROR [main] ? - There is exception: java.lang.Exception: By.id: Login2222element is not present and displayed
+2017-08-17 15:19:19,944 WARN  [main] ? - TEST FAILED -SearchByCompanyName
+2017-08-17 15:23:45,889 INFO  [main] ? - Default User info initialized
+2017-08-17 15:24:02,343 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 15:24:02,344 INFO  [main] ? - Log in to application
+2017-08-17 15:24:02,344 INFO  [main] ? - Start Log in to application
+2017-08-17 15:24:02,817 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:24:03,197 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:24:03,217 INFO  [main] ? - Clicking on:Click on login button
+2017-08-17 15:24:23,351 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:24:23,351 ERROR [main] ? - There is exception: java.lang.Exception: By.id: Login2222element is not present and displayed
+2017-08-17 15:24:23,768 WARN  [main] ? - TEST FAILED - SearchByCompanyName
+2017-08-17 15:26:15,916 INFO  [main] ? - Default User info initialized
+2017-08-17 15:26:31,712 INFO  [main] ? - Start Log in to application
+2017-08-17 15:26:32,164 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:26:32,546 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:26:32,566 INFO  [main] ? - Clicking on:Click on login button
+2017-08-17 15:26:52,957 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:26:52,958 ERROR [main] ? - There is exception: java.lang.Exception: By.id: Login2222element is not present and displayed
+2017-08-17 15:32:01,149 INFO  [main] ? - Default User info initialized
+2017-08-17 15:32:25,054 INFO  [main] ? - Start Log in to application
+2017-08-17 15:32:25,633 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:32:26,030 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:32:26,051 INFO  [main] ? - Clicking on:Click on login button
+2017-08-17 15:34:40,247 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:36:22,248 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:39:06,320 INFO  [main] ? - Default User info initialized
+2017-08-17 15:39:50,154 INFO  [main] ? - Start Log in to application
+2017-08-17 15:39:50,635 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:39:51,107 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:39:51,127 INFO  [main] ? - Clicking on:Click on login button
+2017-08-17 15:40:11,164 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:40:11,164 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:41:28,826 INFO  [main] ? - Default User info initialized
+2017-08-17 15:41:47,045 INFO  [main] ? - Start Log in to application
+2017-08-17 15:41:47,487 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:41:47,887 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:41:47,907 INFO  [main] ? - Clicking on:Click on login button
+2017-08-17 15:42:08,419 ERROR [main] ? - Error on:Click on login button
+2017-08-17 15:42:08,423 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:44:35,034 INFO  [main] ? - Default User info initialized
+2017-08-17 15:44:55,373 INFO  [main] ? - Start Log in to application
+2017-08-17 15:44:55,823 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:44:56,272 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:44:56,292 INFO  [main] ? - Clicking on:Login button
+2017-08-17 15:45:16,788 ERROR [main] ? - Error on:Login button
+2017-08-17 15:45:16,788 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:54:23,152 INFO  [main] ? - Default User info initialized
+2017-08-17 15:54:43,875 INFO  [main] ? - Start Log in to application
+2017-08-17 15:54:44,311 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 15:54:44,729 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 15:54:44,749 INFO  [main] ? - Clicking on:Login button
+2017-08-17 15:55:04,859 ERROR [main] ? - Error on:Login button
+2017-08-17 15:55:04,860 ERROR [main] ? - There is exception: By.id: Login2222 element is not present and displayed
+2017-08-17 15:55:15,874 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 15:55:25,913 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 16:42:45,135 INFO  [main] ? - Default User info initialized
+2017-08-17 16:43:22,815 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 16:43:32,866 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 16:44:57,569 INFO  [main] ? - Default User info initialized
+2017-08-17 16:45:36,521 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 16:45:46,609 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 16:48:00,306 INFO  [main] ? - Default User info initialized
+2017-08-17 16:48:17,323 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 16:48:28,172 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 16:48:38,290 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 16:49:52,646 INFO  [main] ? - Default User info initialized
+2017-08-17 16:50:09,008 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 16:50:09,008 INFO  [main] ? - Log in to application
+2017-08-17 16:50:09,009 INFO  [main] ? - Start Log in to application
+2017-08-17 16:50:09,429 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 16:50:09,829 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 16:50:09,849 INFO  [main] ? - Clicking on:Login button
+2017-08-17 16:50:51,205 INFO  [main] ? - Switching to Lightening view
+2017-08-17 16:51:05,206 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 16:51:05,206 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 16:51:08,751 INFO  [main] ? - Opening App Launcher
+2017-08-17 16:51:08,855 INFO  [main] ? - Clicking on:Account Link
+2017-08-17 16:51:27,987 INFO  [main] ? - Clicking on:Account New
+2017-08-17 16:51:39,568 INFO  [main] ? - Switching to frame: 3
+2017-08-17 16:51:42,212 INFO  [main] ? - Set Text value: Rel PKG 05 into By.id: companyName
+2017-08-17 16:51:42,222 INFO  [main] ? - Verify Search
+2017-08-17 17:06:35,321 INFO  [main] ? - Default User info initialized
+2017-08-17 17:07:02,158 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 17:07:12,224 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 17:08:11,382 INFO  [main] ? - Default User info initialized
+2017-08-17 17:08:26,411 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 17:08:26,412 INFO  [main] ? - Log in to application
+2017-08-17 17:08:26,413 INFO  [main] ? - Start Log in to application
+2017-08-17 17:08:26,849 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 17:08:27,245 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 17:08:27,265 INFO  [main] ? - Clicking on:Login button
+2017-08-17 17:09:08,896 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 17:09:08,897 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 17:09:08,960 INFO  [main] ? - Opening App Launcher
+2017-08-17 17:09:09,091 INFO  [main] ? - Clicking on:Account Link
+2017-08-17 17:09:11,436 INFO  [main] ? - Clicking on:Account New
+2017-08-17 17:10:36,422 INFO  [main] ? - Default User info initialized
+2017-08-17 17:10:51,801 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 17:10:51,802 INFO  [main] ? - Log in to application
+2017-08-17 17:10:51,803 INFO  [main] ? - Start Log in to application
+2017-08-17 17:10:52,253 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 17:10:52,613 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 17:10:52,634 INFO  [main] ? - Clicking on:Login button
+2017-08-17 17:13:08,874 INFO  [main] ? - Default User info initialized
+2017-08-17 17:13:23,997 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 17:13:23,997 INFO  [main] ? - Log in to application
+2017-08-17 17:13:23,998 INFO  [main] ? - Start Log in to application
+2017-08-17 17:13:24,392 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 17:13:24,744 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 17:13:24,764 INFO  [main] ? - Clicking on:Login button
+2017-08-17 17:14:07,039 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 17:14:07,040 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 17:14:07,086 INFO  [main] ? - Opening App Launcher
+2017-08-17 17:14:07,233 INFO  [main] ? - Clicking on:Account Link
+2017-08-17 17:14:09,606 INFO  [main] ? - Clicking on:Account New
+2017-08-17 17:14:32,955 INFO  [main] ? - Switching to frame: 3
+2017-08-17 17:14:35,670 INFO  [main] ? - Set Text value: Rel PKG 05 into By.id: companyName
+2017-08-17 17:14:35,680 INFO  [main] ? - Verify Search
+2017-08-17 17:20:30,652 INFO  [main] ? - Default User info initialized
+2017-08-17 17:20:46,004 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 17:20:46,004 INFO  [main] ? - Log in to application
+2017-08-17 17:20:46,004 INFO  [main] ? - Start Log in to application
+2017-08-17 17:20:46,465 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 17:20:46,883 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 17:20:46,903 INFO  [main] ? - Clicking on:Login button
+2017-08-17 17:21:28,506 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 17:21:28,507 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 17:21:28,556 INFO  [main] ? - Opening App Launcher
+2017-08-17 17:21:28,688 INFO  [main] ? - Clicking on:Account Link
+2017-08-17 17:21:31,080 INFO  [main] ? - Clicking on:Account New
+2017-08-17 17:22:03,052 INFO  [main] ? - Switching to frame: 3
+2017-08-17 17:22:05,714 INFO  [main] ? - Set Text value: Rel PKG 05 into By.id: companyName
+2017-08-17 17:22:05,725 INFO  [main] ? - Verify Search
+2017-08-17 17:26:22,597 INFO  [main] ? - Default User info initialized
+2017-08-17 17:26:40,350 INFO  [main] ? - The testcase name is: TPG_RelationshipType
+2017-08-17 17:26:40,352 INFO  [main] ? - Start Log in to application
+2017-08-17 17:26:40,753 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 17:26:41,163 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 17:26:41,183 INFO  [main] ? - Clicking on:Login button
+2017-08-17 17:27:30,520 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 17:27:30,567 INFO  [main] ? - Opening App Launcher
+2017-08-17 17:27:35,891 INFO  [main] ? - FormList list is clicked
+2017-08-17 17:28:02,493 INFO  [main] ? - Switching to frame: 3
+2017-08-17 17:28:26,155 INFO  [main] ? - New form button is clicked.
+2017-08-17 17:28:26,812 INFO  [main] ? - Set Text value: [Ljava.lang.String;@4e4efc1b into By.id: j_id0:form:containerBlock:containerNew:inputContainerName
+2017-08-17 17:28:26,813 INFO  [main] ? - Form name [Ljava.lang.String;@4e4efc1b added.
+2017-08-17 17:28:31,563 INFO  [main] ? - Container added successfully
+2017-08-17 17:28:34,442 INFO  [main] ? - Set Text value: QA_TestlayoutThu Aug 17 17:27:35 IST 2017 into By.id: j_id0:form:layoutBlock:layoutNew:inputLayoutName
+2017-08-17 17:28:34,722 INFO  [main] ? - Layout added successfully.
+2017-08-17 17:28:41,599 INFO  [main] ? - Set Text value: QA Test Tab1 into By.id: j_id0:form:tabBlock:tabSection:tabTable:0:j_id47
+2017-08-17 17:28:44,675 INFO  [main] ? - Tab 1 added successfully.
+2017-08-17 17:28:51,587 INFO  [main] ? - Set Text value: QA Test Section1 into By.id: j_id0:form:sectionBlock:sectionSection:sectionTable:0:j_id74
+2017-08-17 17:28:55,577 INFO  [main] ? - Section 1 added successfully.
+2017-08-17 17:28:58,562 INFO  [main] ? - Set Text value: QA 1Thu Aug 17 17:27:35 IST 2017 into By.id: j_id0:form:newElementWithQuestion:newQuestionBlock:inputQuestionName
+2017-08-17 17:28:59,188 INFO  [main] ? - Set Text value: QA Test Question 1Thu Aug 17 17:27:35 IST 2017 into By.xpath: //textarea[contains(@id,'inputQuestionQuestionText')]
+2017-08-17 17:28:59,360 INFO  [main] ? - Quesion 1 added successfully.
+2017-08-17 17:29:23,598 INFO  [main] ? - Opening App Launcher
+2017-08-17 17:29:41,233 INFO  [main] ? - Adding new TP Group: VerifySendRequirement Thu Aug 17 17:29:23 IST 2017
+2017-08-17 17:29:51,571 INFO  [main] ? - Switching to frame: 4
+2017-08-17 17:29:54,177 INFO  [main] ? - Set Text value: VerifySendRequirement Thu Aug 17 17:29:23 IST 2017 into By.id: txtGroupName
+2017-08-17 17:30:04,689 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //span[contains(.,'QATag_1')] element is not present and displayed
+2017-08-17 17:30:04,689 INFO  [main] ? - Tag added successfully in VerifySendRequirement Thu Aug 17 17:29:23 IST 2017
+2017-08-17 17:30:05,166 INFO  [main] ? - Saving VerifySendRequirement Thu Aug 17 17:29:23 IST 2017
+2017-08-17 17:30:30,896 ERROR [main] ? - There is exception: java.lang.Exception: By.partialLinkText: VerifySendRequirement Thu Aug 17 17:29:23 IST 2017 element is not present and displayed
+2017-08-17 17:30:30,897 INFO  [main] ? - The link VerifySendRequirement Thu Aug 17 17:29:23 IST 2017 is clicked.
+2017-08-17 17:30:30,897 INFO  [main] ? - Opening TP Group VerifySendRequirement Thu Aug 17 17:29:23 IST 2017
+2017-08-17 17:30:31,180 INFO  [main] ? - Opening TP Group VerifySendRequirement Thu Aug 17 17:29:23 IST 2017
+2017-08-17 17:30:50,479 INFO  [main] ? - Clicking on the down arrow to click set requirement.
+2017-08-17 17:31:00,795 INFO  [main] ? - Switching to frame: 4
+2017-08-17 17:31:02,977 INFO  [main] ? - Selecting the Request type
+2017-08-17 17:31:04,798 INFO  [main] ? - Selecting the form: [Ljava.lang.String;@4e4efc1b
+2017-08-17 17:31:07,248 INFO  [main] ? - Clicking on date
+2017-08-17 17:31:07,726 INFO  [main] ? - Selecting the due date for full filling the requirement.
+2017-08-17 17:31:13,162 INFO  [main] ? - Selecting the Requirment as approval
+2017-08-17 17:31:13,629 INFO  [main] ? - Clicking on send button.
+2017-08-17 17:31:24,452 ERROR [main] ? - There is exception: java.lang.Exception: By.cssSelector: div.slds-x-small-buttons--horizontal > button.slds-button.slds-button--brand element is not present and displayed
+2017-08-17 17:41:35,160 INFO  [main] ? - Default User info initialized
+2017-08-17 17:41:52,204 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 17:41:52,211 INFO  [main] ? - Log in to application
+2017-08-17 17:41:52,211 INFO  [main] ? - Start Log in to application
+2017-08-17 17:41:52,657 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 17:41:53,034 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 17:41:53,054 INFO  [main] ? - Clicking on:Login button
+2017-08-17 17:43:24,482 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 17:43:24,483 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 17:43:24,542 INFO  [main] ? - Opening App Launcher
+2017-08-17 17:43:24,685 INFO  [main] ? - Clicking on:Account Link
+2017-08-17 17:43:27,156 INFO  [main] ? - Clicking on:Account New
+2017-08-17 17:43:52,380 INFO  [main] ? - Switching to frame: 3
+2017-08-17 17:43:55,057 INFO  [main] ? - Set Text value: Rel PKG 05 into By.id: companyName
+2017-08-17 17:43:55,067 INFO  [main] ? - Verify Search
+2017-08-17 17:46:48,262 INFO  [main] ? - Default User info initialized
+2017-08-17 17:47:03,998 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 17:47:03,998 INFO  [main] ? - Log in to application
+2017-08-17 17:47:03,999 INFO  [main] ? - Start Log in to application
+2017-08-17 17:47:04,465 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 17:47:04,867 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 17:47:04,888 INFO  [main] ? - Clicking on:Login button
+2017-08-17 17:47:30,047 WARN  [main] ? - There is exception: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'SUKJINDER-QC', ip: '172.24.4.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8), userDataDir=C:\Users\SUKHJI~1.SIN\AppData\Local\Temp\scoped_dir18364_5221}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 17fbee71b3b1d6ab3fe5d923803addc1
+*** Element info: {Using=xpath, value=//span[@id='userNavLabel']}
+2017-08-17 17:47:30,056 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 17:47:30,057 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 17:47:30,077 INFO  [main] ? - App Launcher icon is not visible, seems like page is not on Lightning view
+2017-08-17 17:47:30,078 INFO  [main] ? - Clicking on:Account Link
+2017-08-17 17:47:40,240 ERROR [main] ? - Error on:Account Link
+2017-08-17 17:47:40,240 ERROR [main] ? - There is exception: By.xpath: //span[@class='label slds-truncate slds-text-link'][contains(.,'Accounts')] element is not present and displayed
+2017-08-17 17:47:40,274 WARN  [main] ? - There is an exception: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'SUKJINDER-QC', ip: '172.24.4.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8), userDataDir=C:\Users\SUKHJI~1.SIN\AppData\Local\Temp\scoped_dir18364_5221}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 17fbee71b3b1d6ab3fe5d923803addc1
+2017-08-17 17:47:50,483 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //img[contains(@class,'profileTrigger')] element is not present and displayed
+2017-08-17 17:48:00,695 ERROR [main] ? - There is exception: java.lang.Exception: By.linkText: Log Out element is not present and displayed
+2017-08-17 17:48:41,830 INFO  [main] ? - Default User info initialized
+2017-08-17 17:49:00,772 INFO  [main] ? - Test started:SearchByCompanyName
+2017-08-17 17:49:00,773 INFO  [main] ? - Log in to application
+2017-08-17 17:49:00,774 INFO  [main] ? - Start Log in to application
+2017-08-17 17:49:01,239 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 17:49:01,680 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 17:49:01,700 INFO  [main] ? - Clicking on:Login button
+2017-08-17 17:49:45,027 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 17:49:45,029 INFO  [main] ? - Search TP with: CompanyName
+2017-08-17 17:49:45,087 INFO  [main] ? - Opening App Launcher
+2017-08-17 17:49:45,231 INFO  [main] ? - Clicking on:Account Link
+2017-08-17 17:49:47,557 INFO  [main] ? - Clicking on:Account New
+2017-08-17 17:50:10,051 INFO  [main] ? - Switching to frame: 3
+2017-08-17 17:50:12,704 INFO  [main] ? - Set Text value: Rel PKG 05 into By.id: companyName
+2017-08-17 17:50:12,714 INFO  [main] ? - Verify Search
+2017-08-17 18:17:10,327 INFO  [main] ? - Default User info initialized
+2017-08-17 18:17:25,623 INFO  [main] ? - Test Case Name is: CreateProductWithoutUID
+2017-08-17 18:17:25,623 INFO  [main] ? - Log in to application
+2017-08-17 18:17:25,623 INFO  [main] ? - Start Log in to application
+2017-08-17 18:17:26,098 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 18:17:26,493 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 18:17:26,513 INFO  [main] ? - Clicking on:Login button
+2017-08-17 18:18:15,594 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 18:18:15,594 INFO  [main] ? - Create product Without UID
+2017-08-17 18:18:15,648 INFO  [main] ? - Opening App Launcher
+2017-08-17 18:18:15,799 INFO  [main] ? - Clicking on:ICIX Product
+2017-08-17 18:18:18,176 INFO  [main] ? - Clicking on:New Product
+2017-08-17 18:18:44,887 INFO  [main] ? - Set Text value: StagingPKG02 into By.id: txt_SearchTermTradingPartner
+2017-08-17 18:18:51,575 INFO  [main] ? - Set Text value: Product Testing into By.xpath: //input[@id='ProductName']
+2017-08-17 18:18:52,345 INFO  [main] ? - Set Text value: Product Testing into By.id: ProductDesc
+2017-08-17 18:18:56,381 INFO  [main] ? - Set Text value: StagingPKG02 into By.id: txt_UPTardingPartner_Name
+2017-08-17 18:19:47,794 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //button[@ng-click='vm.close()'] element is not present and displayed
+2017-08-17 18:20:38,234 WARN  [main] ? - element is not present and displayed
+2017-08-17 18:21:28,557 WARN  [main] ? - element is not present and displayed
+2017-08-17 18:37:07,619 INFO  [main] ? - Default User info initialized
+2017-08-17 18:37:23,382 INFO  [main] ? - Test Case Name is: CreateProductWithoutUID
+2017-08-17 18:37:23,383 INFO  [main] ? - Log in to application
+2017-08-17 18:37:23,385 INFO  [main] ? - Start Log in to application
+2017-08-17 18:37:23,802 INFO  [main] ? - Set Text value: feature04@icix.com into By.id: username
+2017-08-17 18:37:24,259 INFO  [main] ? - Set Text value: test@1234 into By.id: password
+2017-08-17 18:37:24,279 INFO  [main] ? - Clicking on:Login button
+2017-08-17 18:38:09,618 INFO  [main] ? - Requestor logged in successfully.
+2017-08-17 18:38:09,619 INFO  [main] ? - Create product Without UID
+2017-08-17 18:38:09,671 INFO  [main] ? - Opening App Launcher
+2017-08-17 18:38:09,810 INFO  [main] ? - Clicking on:ICIX Product
+2017-08-17 18:38:12,171 INFO  [main] ? - Clicking on:New Product
+2017-08-17 18:38:37,700 INFO  [main] ? - Set Text value: StagingPKG02 into By.id: txt_SearchTermTradingPartner
+2017-08-17 18:38:44,746 INFO  [main] ? - Set Text value: Product Testing into By.xpath: //input[@id='ProductName']
+2017-08-17 18:38:45,475 INFO  [main] ? - Set Text value: Product Testing into By.id: ProductDesc
+2017-08-17 18:38:49,513 INFO  [main] ? - Set Text value: StagingPKG02 into By.id: txt_UPTardingPartner_Name
+2017-08-17 18:39:40,723 ERROR [main] ? - There is exception: java.lang.Exception: By.xpath: //button[@ng-click='vm.close()'] element is not present and displayed
+2017-08-17 18:40:30,978 WARN  [main] ? - element is not present and displayed
+2017-08-17 18:41:21,084 WARN  [main] ? - element is not present and displayed

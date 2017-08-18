@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ICIX Test Cases">
+
+<listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+<test name="ICIX Test For sdd">
+ 
+
+<parameter name="ResponderUsername" value="ruppkg02@icix.com "></parameter> <!-- q@pkgo2rk@icix.com, sdd3v06@sd.com -->
+<parameter name="ResponderPassword" value="Test@12345"></parameter> <!--Test@1234, Test@12345 -->
+<parameter name="RequesterUserName" value="ruppkg01@icix.com"></parameter> <!-- q@pkgo1rk@icix.com -->
+<parameter name="RequestorPassword" value="Test@12345"></parameter> <!-- Test@1234 -->
+<parameter name="LabUserName" value="feature04@icix.com "></parameter>
+<parameter name="LabPassword" value="Test@1234"></parameter>
+<parameter name="icixId" value="44"></parameter>
+
+<classes>
+		
+             <class name="icix.Tests.TC9672_Test"/>
+             <class name="icix.Tests.TC9666_Test"/>
+         	<class name="icix.Tests.TC9667_Test"/>
+        	<class name="icix.Tests.TC9670_Test"/>
+            <class name="icix.Tests.TC9675_Test"/> 
+  		  	<class name="icix.Tests.TC9733_Test"/>
+	
+</classes>
+</test>
+
+<!-- <test name="ICIX Test For qa">
+<parameter name="ResponderUsername" value="qadbt02rk@icix.com"></parameter>
+<parameter name="ResponderPassword" value="testing@1234"></parameter>
+<parameter name="RequesterUserName" value="r3lqa03rk@icix.com"></parameter>
+<parameter name="RequestorPassword" value="Test@12345"></parameter>
+<parameter name="LabUserName" value="feature04@icix.com "></parameter>
+<parameter name="LabPassword" value="Test@1234"></parameter>-->
+
+<!-- <classes>-->
+<!--   <class name="icix.Tests.TC9675_Test"/> -->
+<!--   <class name="icix.Tests.TC9648_Test"/> -->
+<!--   <class name="icix.Tests.TC10782_Test"/> -->
+<!--   <class name="icix.Tests.TC10467_Test"/> -->
+<!--   <class name="icix.Tests.TC9648_Test"/> -->
+<!--</classes>
+</test>-->
+
+
+</suite> <!-- Suite -->
